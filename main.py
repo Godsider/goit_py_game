@@ -15,7 +15,7 @@ RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
 
-# size definition
+# size definitions
 PLAYER_SIZE = (121, 51)
 ENEMY_SIZE = (68, 24)
 BONUS_SIZE = (90, 149)
